@@ -1,0 +1,2 @@
+C:\Shuja\DotNetSamples\F10\LinqToSqlExample\LinqToSqlExample\bin\Debug\LinqToSqlExample.exe.config
+C:\Shuja\DotNetSamples\F10\Linq\LinqToSqlExample\LinqToSqlExample\bin\Debug\LinqToSqlExample.exe.config

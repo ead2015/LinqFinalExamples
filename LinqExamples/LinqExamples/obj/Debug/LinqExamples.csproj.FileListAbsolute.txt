@@ -1,0 +1,6 @@
+C:\Shuja\DotNetSamples\F10\Linq\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe.config
+C:\Shuja\DotNetSamples\F10\Linq\LinqExamples\LinqExamples\bin\Debug\LinqExamples.exe
+C:\Shuja\DotNetSamples\F10\Linq\LinqExamples\LinqExamples\bin\Debug\LinqExamples.pdb
+C:\Shuja\DotNetSamples\F10\Linq\LinqExamples\LinqExamples\obj\Debug\LinqExamples.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Linq\LinqExamples\LinqExamples\obj\Debug\LinqExamples.exe
+C:\Shuja\DotNetSamples\F10\Linq\LinqExamples\LinqExamples\obj\Debug\LinqExamples.pdb
